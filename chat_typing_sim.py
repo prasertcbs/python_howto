@@ -1,3 +1,7 @@
+# author: Prasert Kanawattanachai
+# github: https://github.com/prasertcbs/python_howto
+# YouTube: https://youtu.be/20KtFa92_PY
+
 import time
 import random
 
